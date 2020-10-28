@@ -105,7 +105,7 @@
 
 .social-media {
     background-color: #fff;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
     width: 100%;
 }
 
@@ -166,7 +166,4 @@
     .social-media-wrap {
         flex-direction: column;
     }
-}
-
-@media screen and (max-width: 768px) {
 }
